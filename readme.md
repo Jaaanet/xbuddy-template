@@ -126,3 +126,7 @@ Every PR must include a LangSmith trace URL and tradeoff reasoning.
 | API | FastAPI (streaming SSE + sync endpoints) |
 | Database | Supabase (agent state persistence) |
 | Frontend | Next.js + React |
+
+## Local setup note
+
+Stage 0 environment setup verified.
